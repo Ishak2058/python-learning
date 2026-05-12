@@ -5,7 +5,7 @@ total = 0
 count = 0
 
 highest = 0
-lowest = 999
+lowest = 99
 
 for line in file:
     number = int(line)
